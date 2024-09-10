@@ -98,7 +98,7 @@ export default function Header({cart, removefromCart, increseQuantity, decreaseQ
 
 
                                 <button 
-                                    className="btn btn-dark w-100 mt-3 p-2"
+                                    className="btn btn-dark w-100 mt-3 p-3"
                                     onClick={clearcart}>
                                     Vaciar Carrito
                                 </button>
